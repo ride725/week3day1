@@ -1,0 +1,74 @@
+html, head, body, nav, h1, h2, p {
+    padding: 0;
+    font-size: 100%;
+    font: inherit;
+} 
+html {
+    background-color: rgb(240, 233, 178);
+}
+.nav {
+    background-color: rgb(211, 158, 14);
+    width:100%;
+    clear: both;
+    height: 40px;
+    
+}
+.nav a {
+    float: right;
+    background-color: rgb(211, 158, 14);
+    padding: 10px 20px;
+
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+
+}
+.main-content {
+    padding-left: 10px;
+    clear: both;
+    margin:20px 0;
+}
+.dashboard {
+    width: 200px;
+    border: 2px solid rgb(211, 158, 14);
+    margin: 0 auto;
+    float: left;
+    padding: 5px 10px;
+
+
+}
+.budget {
+    width: 200px;
+    border: 2px solid rgb(211, 158, 14);
+    margin: 0 auto;
+    float: left;
+    padding: 5px 10px;
+    
+
+}
+.checkbook {
+    width: 200px;
+    border: 2px solid rgb(211, 158, 14);
+    margin: 0 auto;
+    float: left;
+    padding: 5px 10px;
+
+}
+.money {
+    width: 200px;
+    border: 2px solid rgb(211, 158, 14);
+    margin: 0 auto;
+    float: left;
+    padding: 5px 10px;
+}
+.image {
+    background-color: rgb(211, 158, 14);
+    text-align: center;
+    padding: 5px 20px;
+}
+.for-real {
+    float: left;
+    padding: 5px 20px;
+
+}
